@@ -24,27 +24,3 @@ arr.forEach(button => {
         }
     })
 })
-
-
-
-
-/*     let input = document.querySelector("#calculator");
-    let button = document.querySelector("#result");
-    let result = document.querySelector("#h1");
-
-    button.addEventListener("click", 
-    function(){
-        let output = eval(input.value);
-        // console.log(output);
-        h1.innerHTML = output;
-    }) */
-
-
-/* let input = document.getElementsByClassName(".result");
-let button = document.getElementsByClassName[0](".btn");
-
-button.addEnventListner("click", 
-function(){
-    let output = input.value;
-    console.log(output);
-}) */
