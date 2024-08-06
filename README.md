@@ -1,4 +1,4 @@
-# a_basic_calculator_project
+# PROOECTS
 uisng HTML, CSS, Js
 <br>
 Author - Krishna Rai
