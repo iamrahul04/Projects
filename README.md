@@ -1,4 +1,4 @@
 # PROJECTS
-uisng HTML, CSS, Js
+using HTML, CSS, Js
 <br>
 Author - Krishna Rai
